@@ -1,2 +1,8 @@
 # hello-world
-test repository
+By Postrocker
+
+
+Hey there , 
+
+Started working with python using pycharm IDE.
+Going well for now.
